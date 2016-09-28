@@ -9,7 +9,7 @@
     
     
 ## 技术笔记
-* [关于Spark将数据放在jvm堆外所产生的bug(2016-09-28)](./tech/spark-bug.md)
+* [关于Spark将数据放在jvm堆外所产生的奇怪bug(2016-09-28)](./tech/spark-bug.md)
 
 
 
