@@ -9,7 +9,7 @@
     
     
 ## 技术笔记
-* [响应式设计的真正挑战：RSS](https://gold.xitu.io/entry/57d909170e3dd900694dc072?utm_source=gold-miner&utm_medium=readme&utm_campaign=github)
+* [关于Spark将数据放在jvm堆外所产生的bug(2016-09-28)](./tech/spark-bug.md)
 
 
 
